@@ -1,0 +1,39 @@
+---
+title: "Patrick E. Shea"
+image: files/img/headshot.jpg
+about:
+  template: trestles
+  image-shape: rounded
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:patrick.shea@glasgow.ac.uk
+    - icon: github
+      text: GitHub
+      href: https://github.com/patrickeshea
+    - text: Google Scholar
+      href: "https://scholar.google.com/citations?user=1tPGawwAAAAJ&hl=en"
+---
+
+I study how international finance and economic power shape conflict, 
+state-building, and domestic politics. My book, [*Hierarchy and the 
+State*](https://www.cambridge.org/gb/universitypress/subjects/politics-international-relations/international-relations-and-international-organisations/hierarchy-and-state-state-building-shadow-american-economic-power?format=PB) 
+(Cambridge University Press, 2025), shows how American economic 
+influence has affected institutional capacity in partner countries. My 
+research has been published in leading political science and 
+international relations journals, including the *British Journal of 
+Political Science*, *Journal of Conflict Resolution*, and *Journal of 
+Politics*.
+
+My wider research examines sovereign debt, war finance, and the politics 
+of development. Current projects explore sovereign credit risk 
+assessment, international land transactions, and critical minerals.
+
+I teach a Data for Development course at the University of Glasgow and 
+Regression Analysis for ICPSR. My recent work focuses on how LLMs can 
+be integrated into quantitative research workflows, with particular 
+attention to transparency and replication. Related workshop materials are 
+publicly available on [GitHub](https://github.com/patrickeshea/llm-research-polisci).
+
+I lead the International Political Economy and Development subject group 
+at the University of Glasgow.

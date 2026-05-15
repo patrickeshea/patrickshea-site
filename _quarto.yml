@@ -1,0 +1,48 @@
+project:
+  type: website
+
+website:
+  title: "Patrick E. Shea"
+  description: "Senior Lecturer in International Political Economy & Development, University of Glasgow"
+  site-url: "https://patrickshea.github.io"
+  repo-url: "https://github.com/patrickeshea/patrickshea-site"
+  
+  navbar:
+    pinned: true
+    left:
+      - text: "About"
+        href: index.qmd
+      - text: "Research"
+        menu:
+          - text: "Book"
+            href: research/book/index.qmd
+          - text: "Articles"
+            href: research/articles/index.qmd
+      - text: "Teaching"
+        href: teaching/index.qmd
+      - text: "AI & Methods"
+        href: ai-methods/index.qmd
+      - text: "Writing"
+        href: writing/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+    right:
+      - icon: envelope
+        href: "mailto:patrick.shea@glasgow.ac.uk"
+      - icon: github
+        href: https://github.com/patrickeshea
+      - icon: google
+        href: "https://scholar.google.com/citations?user=YOUR_ID"
+
+  page-footer:
+    left: "© 2026 Patrick E. Shea"
+    right: "Made with [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme: cosmo
+    lang: en-GB
+    toc: false
+    anchor-sections: true
+    fig-cap-location: margin
+    footnotes-hover: true
