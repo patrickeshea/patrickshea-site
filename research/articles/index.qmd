@@ -1,0 +1,83 @@
+---
+title: "Articles"
+---
+
+Ulkar Imamverdiyeva, Pablo Pinto, and Patrick E. Shea (2026) "[An Examination of TradeLiberalization as a Gendered Foreign Policy Instrument](https://www.tandfonline.com/doi/full/10.1080/09692290.2026.2678297)"
+Review of International Political Economy.\
+[Replication Files](https://doi.org/10.7910/DVN/EDS7FG) |
+[Appendix](https://www.tandfonline.com/action/downloadSupplement?doi=10.1080%2F09692290.2026.2678297&file=rrip_a_2678297_sm5379.pdf)
+
+Lauren Ferry and Patrick E. Shea (2025) "[Crises and Consequences: The Role of U.S. Support in International Bond Markets](https://eprints.gla.ac.uk/349732)" *Journal of Conflict Resolution* 69(10): 1713–1740.\
+[Replication Files](https://doi.org/10.7910/DVN/UES0HI) | [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/00220027251327970/suppl_file/sj-pdf-1-jcr-10.1177_00220027251327970.pdf)
+
+Ben Cormier and Patrick E. Shea (2025) "[Global Finance, Political Business Cycles, and the Politics of Foreign Reserves](https://doi.org/10.1093/isq/sqaf050)" *International Studies Quarterly* 69(3).\
+[Replication Files](https://www.dropbox.com/scl/fo/zneh7g5ik1evoif4pwbdq/APalvhT0DAY19BNzf-_BLNs?rlkey=9ndd0l3nz2355pn73z3bpdkk5&dl=0) | [Appendix](https://www.dropbox.com/scl/fi/ww2b3epx4g1awhkgb0sx1/ISQ_Reserves_Politics_Appendix.pdf?rlkey=nfgwlet3jfjzcx8rteyudxb7s&dl=0)
+
+Matthew DiGiuseppe and Patrick E. Shea (2025) "[Information, Uncertainty, & Public Support for Brinkmanship During the 2023 Debt Limit Negotiations](https://doi.org/10.1017/S0007123424000462)" *British Journal of Political Science* 55(1).\
+[Replication Files](https://doi.org/10.7910/DVN/K6MKOS) | [Supplemental Materials](https://doi.org/10.1017/S0007123424000462)
+
+Patrick E. Shea, Bernhard Reinsberg, and Andreas Kern (2025) "[China Lending and the Political Economy of Leader Survival](https://doi.org/10.1177/00220027241263036)" *Journal of Conflict Resolution* 69(4): 571–598.\
+[Replication Files](https://www.dropbox.com/scl/fo/49wpsn4rtk0xsvt0uj0cf/ADGxypr78xReVoUsSK78ixU?rlkey=0c0kha1eiqy1jfmcq0dxdcssr&dl=0) | [Appendix](https://www.dropbox.com/scl/fi/40fqa7fazu2f1v2ghg6nk/CNLS_08_JCR_Appendix_FINAL.pdf?rlkey=95hco8terph94v5vlrj0p32di&dl=0)
+
+Andreas Kern, Bernhard Reinsberg, and Patrick E. Shea (2024) "[Why Cronies Don't Cry?: IMF Programs, Chinese Lending, and Leader Survival](https://link.springer.com/article/10.1007/s11127-023-01114-4)" *Public Choice* 198(3–4), 269–295.\
+[Replication Files](https://www.dropbox.com/scl/fi/6vv0f2zh07qgneegbcyb2/Replication-files.zip?rlkey=9kas1d1liw13q62hnv2rrb8sy&dl=0)
+
+Kathleen J. Brown, Matthew DiGiuseppe, and Patrick E. Shea (2023) "[Ethnic Politics and Sovereign Credit Risk](https://doi.org/10.1080/09692290.2023.2225143)" *Review of International Political Economy* 31(2), 589–621.\
+[Appendix](https://www.tandfonline.com/action/downloadSupplement?doi=10.1080%2F09692290.2023.2225143&file=rrip_a_2225143_sm5761.pdf)
+
+Eugenia Artabe, Sam Chapa, Leah Sparkman, and Patrick E. Shea (2023) "[External Threats, Capacity, and Repression: How the Threat of War Affects Political Development and Physical Integrity Rights](https://eprints.gla.ac.uk/299206)" *British Journal of Political Science* 53(4), 1311–1327.\
+[Replication Files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RYUSL4) | [Appendix](https://www.dropbox.com/s/ur9rrpgh6pz1a18/threatHR_appendix_RR_12Sept22.pdf?dl=0)
+
+Ulkar Imamverdiyeva and Patrick E. Shea (2022) "[Re-examining Women Leaders and Military Spending](https://eprints.gla.ac.uk/299221)" *Journal of Peace Research* 59(5), 679–693.\
+[Replication Files](https://www.prio.org/download/replicationfile/330/0fc19ca5-7ad7-4c89-9dbf-7db335169de4)
+
+Matthew DiGiuseppe and Patrick E. Shea (2022) "[U.S. Patronage, State Capacity, and Civil Conflict](https://doi.org/10.1086/715598)" *Journal of Politics* 84(2): 767–782.\
+[Replication Files](https://www.dropbox.com/s/ph1jvji6rks6v0h/Final%20Replication.zip?dl=0) | [Appendix](https://www.dropbox.com/s/mm8qtjfadpgc0ow/hierarchyappendix_JOP.pdf?dl=0)
+
+Matthew DiGiuseppe and Patrick E. Shea (2021) "[Alliances, Signals of Support, and Military Effort](https://doi.org/10.1177/13540661211033890)" *European Journal of International Relations* 27(4): 1067–1089.
+
+Jeffrey J. Harden, Justin H. Kirkland, and Patrick E. Shea (2021) "[Legislative Transparency and Credit Risk](https://doi.org/10.1111/lsq.12272)" *Legislative Studies Quarterly* 46(1): 189–218.
+
+Patrick E. Shea and Paul Poast (2020) "[Leaders and Default](https://doi.org/10.1093/isq/sqaa003)" *International Studies Quarterly* 64(2): 406–418.\
+[Replication Files](https://www.dropbox.com/s/wx20gs96flay5po/leaddefault_replication_123119.zip?dl=0) | [Appendix](https://www.dropbox.com/s/joyw2rg90yqmmtr/IrregLeaderAppendix_93019RR.synctex?dl=0)
+
+Patrick E. Shea (2020) "[Money Talks: Finance, War, and Great Power Politics in the 19th Century](https://www.dropbox.com/s/kw6ofswm5hhvg6h/SSH_MoneyTalks_012919.pdf?dl=0)" *Social Science History* 44(2): 223–249.
+
+Matthew DiGiuseppe and Patrick E. Shea (2019) "[The Devil's Haircut: Investor-State Disputes Over Debt](https://www.dropbox.com/s/ugmoy7qmnb9iyj5/JCR_DevilsHaircut.pdf?dl=0)" *Journal of Conflict Resolution* 63(8): 1889–1922.\
+[Replication Files](https://www.dropbox.com/s/3mfpgq3n2swj2xb/Replication_Haircut_JCR.zip?dl=0) | [Appendix](https://www.dropbox.com/s/chc0h8nr39i0bfn/JCR_HC_appendix_100918.pdf?dl=0)
+
+Markie McBrayer, Patrick E. Shea, and Justin Kirkland (2019) "[The Financial Crisis, Fiscal Federalism, and the Creditworthiness of US State Governments](https://www.dropbox.com/s/djtuqoqhts52lbe/SPP_StateCredit.pdf?dl=0)" *Statistics, Politics and Policy* 9(1): 1–30.
+
+Patrick E. Shea and Paul Poast (2018) "[War and Default](https://doi.org/10.1177/0022002717707239)" *Journal of Conflict Resolution* 62(9): 1876–1904.\
+[Replication Files](https://www.dropbox.com/s/vplowaqhzo8wfyt/wardefault_app_JCR_040417.zip?dl=0) | [Appendix](https://www.dropbox.com/s/rm8d7bkghswmspx/WarDefault_appendix_JCR_040417.pdf?dl=0)
+
+Patrick E. Shea and Jonathan Solis (2018) "[Leaders, Tenure, and the Politics of Sovereign Credit](https://www.dropbox.com/s/n06mn7qygov4vxp/II-%20Leaders%20Tenure%20and%20the%20Politics%20of%20Sovereign%20Credit.pdf?dl=0)" *International Interactions* 44(2), 294–320.\
+[Replication Files](https://www.dropbox.com/s/4e16zv3efanqt2g/rep_files.zip?dl=0) | [Appendix](https://www.dropbox.com/s/ck89f016pol3f9w/Assassination_Appendix_082317.pdf?dl=0)
+
+Matthew DiGiuseppe and Patrick E. Shea (2018) "[Sovereign Credit and Political Survival in Democracies](https://www.dropbox.com/s/1572xm2ptqt8ybw/BusinessAndPolitics_2018_Sovereign%20credit%20and%20political%20survival%20in%20democracies.pdf?dl=0)" *Business and Politics* 20(3), 360–389.\
+*Finalist for the David P. Baron award for the best article published in BAP in 2018.*
+
+Patrick E. Shea and Charlotte Christian (2017) "[The Impact of Women Legislators on Military Humanitarian Interventions](https://www.dropbox.com/s/ye1f290ppm0sjlj/JCR_manuscript_011416.pdf?dl=0)" *Journal of Conflict Resolution* 61(10), 2043–2073.\
+[Replication Files](https://www.dropbox.com/s/1fnzqwvhacnok54/Replication%20files.zip?dl=0) | [Appendix](https://www.dropbox.com/s/otfcdw4122n1c07/Journal%20of%20Conflict%20Resolution-2016-Shea-0022002716631105.pdf?dl=0)
+
+Patrick E. Shea (2016) "[Borrowing Trouble: Sovereign Credit, Military Regimes, and Conflict](https://www.dropbox.com/s/qba3w1gmqt14198/II_Final.pdf?dl=0)" *International Interactions* 42(3), 401–428.\
+[Replication Files](https://www.dropbox.com/s/is5nd51khzwaz57/Replication.zip?dl=0) | [Appendix](https://www.dropbox.com/s/rvh5qd4ua63iicg/II_appendix_RR_091615.pdf?dl=0)
+
+Matthew DiGiuseppe and Patrick E. Shea (2016) "[Borrowed Time: Sovereign Finance, Regime Type, and Leader Survival](https://www.dropbox.com/s/o5lrv7gyp6g79ae/DiGiuseppe_et_al-2016-Economics_%26_Politics.pdf?dl=0)" *Economics & Politics* 28(3), 342–367.\
+[Appendix](https://www.dropbox.com/s/har41sc0accrrnm/EnP_Accepted_Appendix_071216.pdf?dl=0)
+
+Matthew DiGiuseppe and Patrick E. Shea (2015) "[Sovereign Credit and the Fate of Leaders: Reassessing the Democratic Advantage](https://www.dropbox.com/s/j1uf7ybyhe0yiv5/DiGiuseppe_et_al-2015-International_Studies_Quarterly.pdf?dl=0)" *International Studies Quarterly* 59(3), 557–570.\
+[Replication Files](https://www.dropbox.com/s/9cm4lcpvsw0bipz/DiGiShea-Replication.zip?dl=0) | [Appendix](https://www.dropbox.com/s/o01nv5nllhs0lv3/DemAd_Appendix_ISARR_062414-copy.pdf?dl=0)
+
+Patrick E. Shea (2014) "[Financing Victory: Credit, Democracy, and War](https://doi.org/10.1177/0022002713478567)" *Journal of Conflict Resolution* 58(5), 771–795.\
+[Replication Files](https://www.dropbox.com/s/ynz99xwthso31lb/replication_files%20%282%29.zip?dl=0) | [Appendix](https://www.dropbox.com/s/tioi0tedhxbo5gz/Journal%20of%20Conflict%20Resolution-2014-Shea-771-95.pdf?dl=0)
+
+Patrick E. Shea, Terence Teo, and Jack S. Levy (2014) "[Opposition Politics and International Crises: A Formal Model](https://www.dropbox.com/s/d9irfynct4d3xrk/Shea_et_al-2014-International_Studies_Quarterly.pdf?dl=0)" *International Studies Quarterly* 58(4), 741–751.\
+[Appendix](https://www.dropbox.com/s/swbhnga6dwnpo7w/Appendix%20%28R%26R2%20ISQ%29%20v8.pdf?dl=0)
+
+## Book Chapters
+
+Miriam Shiran and Patrick Shea (forthcoming) "[Survival Analysis in International Relations](https://doi.org/10.4337/9781839101014.00037)" in Joseph Huddleston and Patrick James (eds). *Handbook of Research Methods in International Relations*. Edward Elgar Publishing.
+
+Rosella Cappella Zielinski and Patrick Shea (forthcoming) "[War Finance in the 21st Century](https://doi.org/10.1093/oxfordhb/9780197673546.013.19)" in Vinnie Aggarwal and Tai Ming-Cheung (eds) [*Oxford Handbook of Geoeconomics and Economic Statecraft*](https://academic.oup.com/edited-volume/56064), Oxford University Press.
+

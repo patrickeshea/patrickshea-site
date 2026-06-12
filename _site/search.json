@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research examines how international finance and economic power shape conflict, state-building, and domestic politics. Three questions run through most of my work: How do financial relationships between states affect leaders and political stability? How does economic hierarchy shape institutional development, conflict, and market outcomes? And who benefits — and who loses — when international capital flows intersect with domestic politics?"
+  },
+  {
+    "objectID": "research/index.html#sovereign-debt-and-conflict",
+    "href": "research/index.html#sovereign-debt-and-conflict",
+    "title": "Research",
+    "section": "Sovereign Debt and Conflict",
+    "text": "Sovereign Debt and Conflict\nI study how access to credit affects whether states go to war, how leaders survive political crises, and what happens when governments default. This includes work on how US security relationships reshape creditor responses to sovereign default, how sovereign credit conditions affect leader survival in democracies and autocracies, and how debt disputes between investors and states escalate into political conflict."
+  },
+  {
+    "objectID": "research/index.html#hierarchy-and-state-capacity",
+    "href": "research/index.html#hierarchy-and-state-capacity",
+    "title": "Research",
+    "section": "Hierarchy and State Capacity",
+    "text": "Hierarchy and State Capacity\nMy book, Hierarchy and the State (Cambridge University Press, 2025), argues that American economic influence has strengthened — not undermined — state capacity in partner countries over the past forty years. This challenges the conventional view in international relations scholarship. Related articles examine how US patronage reduces civil conflict through institutional development, and how US support shapes international bond market responses to sovereign default."
+  },
+  {
+    "objectID": "research/index.html#domestic-politics-and-international-relations",
+    "href": "research/index.html#domestic-politics-and-international-relations",
+    "title": "Research",
+    "section": "Domestic Politics and International Relations",
+    "text": "Domestic Politics and International Relations\nMy work also examines how domestic political actors and institutions shape international outcomes. This includes research on how women national leaders affect military spending, how women legislators influence decisions to intervene in humanitarian crises, how gender operates as a dimension of trade liberalisation, how ethnic politics condition sovereign credit risk, and how public opinion and opposition dynamics constrain leaders during international crises."
+  },
+  {
+    "objectID": "research/index.html#chinese-development-finance",
+    "href": "research/index.html#chinese-development-finance",
+    "title": "Research",
+    "section": "Chinese Development Finance",
+    "text": "Chinese Development Finance\nWork with Bernhard Reinsberg and Andreas Kern examines how Chinese lending affects governance in borrowing countries. Chinese finance disproportionately benefits corrupt leaders, operating through different political channels than Western or multilateral lending."
+  },
+  {
+    "objectID": "research/index.html#land-transactions-and-resource-politics",
+    "href": "research/index.html#land-transactions-and-resource-politics",
+    "title": "Research",
+    "section": "Land Transactions and Resource Politics",
+    "text": "Land Transactions and Resource Politics\nSupported by a National Science Foundation grant, my ongoing work with Jonas Bunte examines how international coercion and debt distress drive cross-border land transactions. I also have ongoing projects explore green land deals and the politics of critical minerals.\n\nFor the full list of publications, see Articles. For public-facing writing, see Writing."
+  },
+  {
     "objectID": "files/cv/index.html",
     "href": "files/cv/index.html",
     "title": "CV",
@@ -102,7 +144,7 @@
     "href": "research/book/index.html",
     "title": "Hierarchy and the State",
     "section": "",
-    "text": "Patrick E. Shea (2025)\nCambridge University Press"
+    "text": "Patrick E. Shea (2025)\nCambridge University Press | Replication Files"
   },
   {
     "objectID": "research/book/index.html#about-the-book",
