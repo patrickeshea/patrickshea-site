@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Patrick E. Shea",
-    "section": "",
-    "text": "I study how international finance and economic power shape conflict, state-building, and domestic politics. My book, Hierarchy and the State (Cambridge University Press, 2025), shows how American economic influence has affected institutional capacity in partner countries. My research has been published in leading political science and international relations journals, including the British Journal of Political Science, Journal of Conflict Resolution, and Journal of Politics.\nMy wider research examines sovereign debt, war finance, and the politics of development. Current projects explore sovereign credit risk assessment, international land transactions, and critical minerals.\nI teach a Data for Development course at the University of Glasgow and Regression Analysis for ICPSR. My recent work focuses on how LLMs can be integrated into quantitative research workflows, with particular attention to transparency and replication. Related workshop materials are publicly available on GitHub.\nI lead the International Political Economy and Development subject group at the University of Glasgow."
-  },
-  {
-    "objectID": "research/book/index.html",
-    "href": "research/book/index.html",
-    "title": "Hierarchy and the State",
-    "section": "",
-    "text": "Patrick E. Shea (2025)\nCambridge University Press"
-  },
-  {
-    "objectID": "research/book/index.html#about-the-book",
-    "href": "research/book/index.html#about-the-book",
-    "title": "Hierarchy and the State",
-    "section": "About the Book",
-    "text": "About the Book\nDoes American influence help or hinder capacity-building in partner states? In Hierarchy and the State, I argue that US support has enhanced state capacity over the past forty years, contrary to the conventional view that American influence undermines state-building in developing countries. American economic power has increased a state’s ability to build and sustain itself.\nThe book traces the evolution of US property rights promotion from 1782 to the present, showing how economic and security interests have shaped American foreign policy across this period. I use quantitative analysis and original data on US hierarchy to demonstrate the mechanisms linking international influence, property rights, and state-building outcomes.\nThe framework changes how scholars examine the international politics of state-building. Instead of treating hierarchy as uniformly extractive, the book shows that the structure of American economic relationships has created conditions for institutional development in partner countries."
-  },
-  {
     "objectID": "files/cv/index.html",
     "href": "files/cv/index.html",
     "title": "CV",
@@ -110,5 +82,33 @@
     "title": "CV",
     "section": "",
     "text": "United States Peace Corps Volunteer, Haiti, 2003–2005\nRobert F. Kennedy Memorial Center for Human Rights, Intern, 2005\nFutures Group (International Development NGO), Assistant, 2005–2006\nU.S. State Department, Intern, 2007"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Patrick E. Shea",
+    "section": "",
+    "text": "I study how international finance and economic power shape conflict, state-building, and domestic politics. My book, Hierarchy and the State (Cambridge University Press, 2025), shows how American economic influence has affected institutional capacity in partner countries. My research has been published in leading political science and international relations journals, including the British Journal of Political Science, Journal of Conflict Resolution, and Journal of Politics.\nMy wider research examines sovereign debt, war finance, and the politics of development. Current projects explore sovereign credit risk assessment, international land transactions, and critical minerals.\nI teach a Data for Development course at the University of Glasgow and Regression Analysis for ICPSR. My recent work focuses on how LLMs can be integrated into quantitative research workflows, with particular attention to transparency and replication. Related workshop materials are publicly available on GitHub.\nI lead the International Political Economy and Development subject group at the University of Glasgow."
+  },
+  {
+    "objectID": "research/book/index.html",
+    "href": "research/book/index.html",
+    "title": "Hierarchy and the State",
+    "section": "",
+    "text": "Patrick E. Shea (2025)\nCambridge University Press"
+  },
+  {
+    "objectID": "research/book/index.html#about-the-book",
+    "href": "research/book/index.html#about-the-book",
+    "title": "Hierarchy and the State",
+    "section": "About the Book",
+    "text": "About the Book\nDoes American influence help or hinder capacity-building in partner states? In Hierarchy and the State, I argue that US support has enhanced state capacity over the past forty years, contrary to the conventional view that American influence undermines state-building in developing countries. American economic power has increased a state’s ability to build and sustain itself.\nThe book traces the evolution of US property rights promotion from 1782 to the present, showing how economic and security interests have shaped American foreign policy across this period. I use quantitative analysis and original data on US hierarchy to demonstrate the mechanisms linking international influence, property rights, and state-building outcomes.\nThe framework changes how scholars examine the international politics of state-building. Instead of treating hierarchy as uniformly extractive, the book shows that the structure of American economic relationships has created conditions for institutional development in partner countries."
   }
 ]

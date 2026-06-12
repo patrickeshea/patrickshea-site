@@ -6,7 +6,7 @@ subtitle: "State-Building in the Shadow of American Economic Power"
 :::: {.columns}
 
 ::: {.column width="35%"}
-![](../../files/img/frontcover_cup.png){fig-alt="Cover of Hierarchy and the State by Patrick E. Shea"}
+![](../../files/img/frontcover_cup.jpg){fig-alt="Cover of Hierarchy and the State by Patrick E. Shea"}
 :::
 
 ::: {.column width="5%"}
