@@ -26,4 +26,4 @@ Supported by a National Science Foundation grant, my ongoing work with Jonas Bun
 
 ---
 
-For the full list of publications, see [Articles](articles/index.qmd). For public-facing writing, see [Writing](../writing/index.qmd).
+For the full list of articles, see [Articles](articles/index.qmd). For public-facing writing, see [Writing](../writing/index.qmd).
