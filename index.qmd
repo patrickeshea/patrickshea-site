@@ -3,6 +3,7 @@ title: "Patrick E. Shea"
 image: files/img/headshot.jpg
 about:
   template: trestles
+  image-width: 8em
   image-shape: rounded
   links:
     - icon: envelope
