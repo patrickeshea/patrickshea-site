@@ -1,0 +1,29 @@
+---
+title: "Research"
+---
+
+My research examines how international finance and economic power shape conflict, state-building, and domestic politics. Three questions run through most of my work: How do financial relationships between states affect leaders and political stability? How does economic hierarchy shape institutional development, conflict, and market outcomes? And who benefits — and who loses — when international capital flows intersect with domestic politics?
+
+## Sovereign Debt and Conflict 
+
+ I study how access to credit affects whether states go to war, how leaders survive political crises, and what happens when governments default. This includes work on how US security relationships reshape creditor responses to sovereign default, how sovereign credit conditions affect leader survival in democracies and autocracies, and how debt disputes between investors and states escalate into political conflict.
+
+## Hierarchy and State Capacity
+
+My book, [*Hierarchy and the State*](book/index.qmd) (Cambridge University Press, 2025), argues that American economic influence has strengthened — not undermined — state capacity in partner countries over the past forty years. This challenges the conventional view in international relations scholarship. Related articles examine how US patronage reduces civil conflict through institutional development, and how US support shapes international bond market responses to sovereign default.
+
+## Domestic Politics and International Relations
+
+My work also examines how domestic political actors and institutions shape international outcomes. This includes research on how women national leaders affect military spending, how women legislators influence decisions to intervene in humanitarian crises, how gender operates as a dimension of trade liberalisation, how ethnic politics condition sovereign credit risk, and how public opinion and opposition dynamics constrain leaders during international crises.
+
+## Chinese Development Finance
+
+Work with Bernhard Reinsberg and Andreas Kern examines how Chinese lending affects governance in borrowing countries. Chinese finance disproportionately benefits corrupt leaders, operating through different political channels than Western or multilateral lending.
+
+## Land Transactions and Resource Politics
+
+Supported by a National Science Foundation grant, my ongoing work with Jonas Bunte examines how international coercion and debt distress drive cross-border land transactions. I also have ongoing projects explore green land deals and the politics of critical minerals.
+
+---
+
+For the full list of publications, see [Articles](articles/index.qmd). For public-facing writing, see [Writing](../writing/index.qmd).

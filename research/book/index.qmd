@@ -15,7 +15,7 @@ subtitle: "State-Building in the Shadow of American Economic Power"
 ::: {.column width="60%"}
 **Patrick E. Shea (2025)**
 
-[Cambridge University Press](https://www.cambridge.org/gb/universitypress/subjects/politics-international-relations/international-relations-and-international-organisations/hierarchy-and-state-state-building-shadow-american-economic-power?format=PB){.btn .btn-primary}
+[Cambridge University Press](https://www.cambridge.org/gb/universitypress/subjects/politics-international-relations/international-relations-and-international-organisations/hierarchy-and-state-state-building-shadow-american-economic-power?format=PB){.btn .btn-primary}  | [Replication Files](https://doi.org/10.7910/DVN/OBK4RI)
 
 :::
 
