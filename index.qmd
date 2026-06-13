@@ -1,7 +1,7 @@
 ---
 title: "Patrick E. Shea"
 subtitle: |
-    [Senior Lecturer](https://www.gla.ac.uk/schools/socialpolitical/staff/patrickeshea/) <br>
+    [Senior Lecturer](https://www.gla.ac.uk/schools/socialpolitical/staff/patrickeshea/) | 
     [International Political Economy and Development](https://www.gla.ac.uk/research/az/international-political-economy-development/)
 image: files/img/headshot.jpg
 about:
