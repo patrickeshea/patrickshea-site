@@ -1,0 +1,25 @@
+---
+title: "Teaching"
+---
+
+## University of Glasgow
+
+**Data for Development** (MSc [Global Development](https://www.gla.ac.uk/postgraduate/taught/global-development/)). Whis course addresses a skills gap identified through consultations with aid practitioners: quantitative literacy among development practitioners. The course bridges statistical methods with policy applications, making data analysis accessible to students without strong quantitative backgrounds.
+
+**[Political Economy of Conflict](https://www.gla.ac.uk/coursecatalogue/course/?code=POLITIC5101)** (MSc). Examines how international economic forces shape armed conflict, state-building, and political violence.
+
+**[International Political Economy](https://www.gla.ac.uk/coursecatalogue/course/?code=POLITIC4160)** (Honours). Theoretical foundations and contemporary debates in IPE.
+
+## Methods training
+
+I also teach quantitative methods at international summer programmes in the social sciences.
+
+[ICPSR Summer Program](https://www.icpsr.umich.edu/web/pages/sumprog/), University of Michigan — Linear Regression, 2019–2021, 2023–2026
+
+[Odum Institute](https://odum.unc.edu/), University of North Carolina — Linear Regression, 2024–2025
+
+[Essex Summer School](https://essexsummerschool.com/) in Social Science Data Analysis — Generalized Linear Models, 2017–2019
+
+## Supervision
+
+I supervise doctoral students working on political economy, conflict, and development. See my [CV](../cv/index.html) for current and completed supervisions, or [get in touch](mailto:patrick.shea@glasgow.ac.uk) to discuss potential projects.
