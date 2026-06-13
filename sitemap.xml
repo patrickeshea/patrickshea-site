@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://patrickshea.co.uk/writing/index.html</loc>
-    <lastmod>2026-06-13T09:16:53.249Z</lastmod>
+    <lastmod>2026-06-13T09:29:28.296Z</lastmod>
   </url>
   <url>
     <loc>https://patrickshea.co.uk/research/index.html</loc>
@@ -27,5 +27,9 @@
   <url>
     <loc>https://patrickshea.co.uk/research/book/index.html</loc>
     <lastmod>2026-06-12T16:38:04.681Z</lastmod>
+  </url>
+  <url>
+    <loc>https://patrickshea.co.uk/teaching/index.html</loc>
+    <lastmod>2026-06-13T09:36:18.247Z</lastmod>
   </url>
 </urlset>
