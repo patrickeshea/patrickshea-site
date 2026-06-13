@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://patrickshea.co.uk/writing/index.html</loc>
-    <lastmod>2026-06-13T09:29:28.296Z</lastmod>
-  </url>
-  <url>
-    <loc>https://patrickshea.co.uk/research/index.html</loc>
-    <lastmod>2026-06-12T17:05:27.600Z</lastmod>
-  </url>
-  <url>
-    <loc>https://patrickshea.co.uk/research/articles/index.html</loc>
-    <lastmod>2026-06-12T16:52:08.329Z</lastmod>
-  </url>
-  <url>
-    <loc>https://patrickshea.co.uk/cv/index.html</loc>
-    <lastmod>2026-06-13T10:23:30.973Z</lastmod>
-  </url>
-  <url>
-    <loc>https://patrickshea.co.uk/about.html</loc>
-    <lastmod>2026-06-12T15:51:19.992Z</lastmod>
-  </url>
-  <url>
-    <loc>https://patrickshea.co.uk/index.html</loc>
-    <lastmod>2026-06-13T12:04:13.709Z</lastmod>
+    <loc>https://patrickshea.co.uk/teaching/index.html</loc>
+    <lastmod>2026-06-13T10:20:52.563Z</lastmod>
   </url>
   <url>
     <loc>https://patrickshea.co.uk/research/book/index.html</loc>
     <lastmod>2026-06-12T16:38:04.681Z</lastmod>
   </url>
   <url>
-    <loc>https://patrickshea.co.uk/teaching/index.html</loc>
-    <lastmod>2026-06-13T10:20:52.563Z</lastmod>
+    <loc>https://patrickshea.co.uk/index.html</loc>
+    <lastmod>2026-06-13T12:14:36.232Z</lastmod>
+  </url>
+  <url>
+    <loc>https://patrickshea.co.uk/commentary/index.html</loc>
+    <lastmod>2026-06-13T09:29:28.296Z</lastmod>
+  </url>
+  <url>
+    <loc>https://patrickshea.co.uk/about.html</loc>
+    <lastmod>2026-06-12T15:51:19.992Z</lastmod>
+  </url>
+  <url>
+    <loc>https://patrickshea.co.uk/cv/index.html</loc>
+    <lastmod>2026-06-13T10:23:30.973Z</lastmod>
+  </url>
+  <url>
+    <loc>https://patrickshea.co.uk/research/articles/index.html</loc>
+    <lastmod>2026-06-12T16:52:08.329Z</lastmod>
+  </url>
+  <url>
+    <loc>https://patrickshea.co.uk/research/index.html</loc>
+    <lastmod>2026-06-12T17:05:27.600Z</lastmod>
   </url>
 </urlset>
