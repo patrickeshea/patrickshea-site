@@ -13,7 +13,12 @@ about:
       text: GitHub
       href: https://github.com/patrickeshea
     - text: Google Scholar
-      href: "https://scholar.google.com/citations?user=1tPGawwAAAAJ&hl=en"
+      href: https://scholar.google.com/citations?user=1tPGawwAAAAJ&hl=en
+  subtitle: |
+    [Senior Lecturer in International Relations](https://www.gla.ac.uk/schools/socialpolitical/staff/patrickeshea/)
+    [University of Glasgow](https://www.gla.ac.uk/)
+    [School of Social and Political Sciences](https://www.gla.ac.uk/schools/socialpolitical/)
+    [International Political Economy and Development](https://www.gla.ac.uk/research/az/international-political-economy-development/)
 ---
 
 I study how international finance and economic power shape conflict, 
@@ -36,5 +41,5 @@ be integrated into quantitative research workflows, with particular
 attention to transparency and replication. Related workshop materials are 
 publicly available on [GitHub](https://github.com/patrickeshea/llm-research-polisci).
 
-I lead the International Political Economy and Development subject group 
+I lead the [International Political Economy and Development](https://www.gla.ac.uk/research/az/international-political-economy-development/) subject group 
 at the University of Glasgow.
