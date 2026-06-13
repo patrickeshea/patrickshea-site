@@ -4,7 +4,7 @@ title: "Teaching"
 
 ## University of Glasgow
 
-**Data for Development** (MSc [Global Development](https://www.gla.ac.uk/postgraduate/taught/global-development/)). Whis course addresses a skills gap identified through consultations with aid practitioners: quantitative literacy among development practitioners. The course bridges statistical methods with policy applications, making data analysis accessible to students without strong quantitative backgrounds.
+**Data for Development** (MSc [Global Development](https://www.gla.ac.uk/postgraduate/taught/global-development/)). This course addresses a skills gap identified through consultations with aid practitioners: quantitative literacy. The course bridges statistical methods with policy applications, making data analysis accessible to students without strong quantitative backgrounds.
 
 **[Political Economy of Conflict](https://www.gla.ac.uk/coursecatalogue/course/?code=POLITIC5101)** (MSc). Examines how international economic forces shape armed conflict, state-building, and political violence.
 
