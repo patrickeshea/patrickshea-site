@@ -24,8 +24,6 @@ website:
             href: research/articles/index.qmd
       - text: "Teaching"
         href: teaching/index.qmd
-      - text: "AI & Methods"
-        href: ai-methods/index.qmd
       - text: "Commentary"
         href: writing/index.qmd
       - text: "CV"
