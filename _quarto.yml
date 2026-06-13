@@ -14,9 +14,10 @@ website:
     left:
       - text: "About"
         href: index.qmd
-      - text: Research
-        href: research/index.qmd
+           - text: "Research"
         menu:
+          - text: "Overview"
+            href: research/index.qmd
           - text: "Book"
             href: research/book/index.qmd
           - text: "Articles"
