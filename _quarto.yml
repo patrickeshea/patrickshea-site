@@ -14,7 +14,8 @@ website:
     left:
       - text: "About"
         href: index.qmd
-      - text: "Research"
+      - text: Research
+        href: research/index.qmd
         menu:
           - text: "Book"
             href: research/book/index.qmd
@@ -34,7 +35,7 @@ website:
       - icon: github
         href: https://github.com/patrickeshea
       - icon: google
-        href: "https://scholar.google.com/citations?user=YOUR_ID"
+        href: "https://scholar.google.com/citations?user=1tPGawwAAAAJ"
 
   page-footer:
     left: "© 2026 Patrick E. Shea"
