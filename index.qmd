@@ -1,6 +1,6 @@
 ---
 title: "Patrick E. Shea"
-  subtitle: |
+subtitle: |
     [Senior Lecturer in International Relations](https://www.gla.ac.uk/schools/socialpolitical/staff/patrickeshea/)
     [University of Glasgow](https://www.gla.ac.uk/)
     [School of Social and Political Sciences](https://www.gla.ac.uk/schools/socialpolitical/)
