@@ -1,0 +1,24 @@
+/*-- scss:defaults --*/
+
+// UoG brand colours
+$uog-blue: #003865;
+$uog-cobalt: #005C8A;
+
+// Navbar
+$navbar-bg: $uog-blue;
+
+// Links
+$link-color: $uog-blue;
+$link-hover-color: $uog-cobalt;
+
+/*-- scss:rules --*/
+
+// Headings pick up the UoG blue
+h1, h2, h3 {
+  color: $uog-blue;
+}
+
+// Footer matches navbar
+.nav-footer {
+  background-color: $uog-blue;
+}

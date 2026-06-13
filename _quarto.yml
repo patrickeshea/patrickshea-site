@@ -26,7 +26,7 @@ website:
         href: teaching/index.qmd
       - text: "AI & Methods"
         href: ai-methods/index.qmd
-      - text: "Writing"
+      - text: "Commentary"
         href: writing/index.qmd
       - text: "CV"
         href: cv/index.qmd
@@ -44,7 +44,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: 
+     - cosmo
+     - custom.scss
     lang: en-GB
     toc: false
     anchor-sections: true
