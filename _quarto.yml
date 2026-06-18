@@ -22,6 +22,8 @@ website:
             href: research/book/index.qmd
           - text: "Articles"
             href: research/articles/index.qmd
+          - text: "Working Papers"
+            href: research/working-papers/index.qmd
       - text: "Teaching"
         href: teaching/index.qmd
       - text: "Commentary"
